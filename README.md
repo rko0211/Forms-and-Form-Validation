@@ -1,6 +1,5 @@
 
 ![Screen Shot 2024-06-06 at 16 36 39](https://github.com/rko0211/Forms-and-Form-Validation/assets/97402824/85a66112-5bd9-4e8f-999a-3dba79874bd8)
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -15,7 +14,7 @@ We welcome contributions from the community! If you'd like to contribute to this
 2. *Clone Your Fork:*
    - Clone the repository from your GitHub account to your local machine.
      bash
-   - git clone https://github.com/your-username/jgec-previous-year-question-paper.git 
+   - git clone https://github.com/your-username/Forms-and-Form-Validation.git 
   
 
 3. *Create a Branch:*
